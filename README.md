@@ -11,7 +11,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaydenzKoci&size_weight=0.5&count_weight=0.5&theme=merko&card_width=400" alt="Top Languages" />
   </a>
   <a style="grid-column: 1 / span 2; grid-row: 2;">
-    <img src="https://streak-stats.demolab.com?user=JaydenzKoci&theme=merko&short_numbers=true&mode=weekly&card_width=800" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=JaydenzKoci&theme=merko&short_numbers=true&mode=weekly&card_width=850" alt="GitHub Streak" />
   </a>
 </div>
 <!--
