@@ -3,7 +3,7 @@
 </h1>
 
 <p  align="center">
-    <a href="https://github.com/JaydenzKoci/jaydenzkoci.github.io">
+    <a href="https://jaydenzkoci.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaydenzKoci&repo=jaydenzkoci.github.io&theme=merko" alt="Portfolio Pin" />
     <a href="https://github.com/JaydenzKoci/song-projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaydenzKoci&repo=song-projects&theme=merko" alt="Portfolio Pin" />
