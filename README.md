@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3C8A0C&center=true&width=435&lines=Hello+There;Welcome+To+My+GitHub" alt="Typing SVG" /></a>
 </h1>
 
-<p  align="">
+<p  align="center">
     <a href="https://github.com/JaydenzKoci/jaydenzkoci.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaydenzKoci&repo=jaydenzkoci.github.io&theme=merko" alt="Portfolio Pin" />
     <a href="https://github.com/JaydenzKoci/song-projects">
