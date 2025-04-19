@@ -1,4 +1,4 @@
-## Hi there 👋
+**I'm Jaydenz, I usually mod stuff.**
 
 <!--
 **JaydenzKoci/JaydenzKoci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
