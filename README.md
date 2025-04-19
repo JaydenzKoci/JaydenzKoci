@@ -3,7 +3,9 @@
 </h1>
 
 <p  align="">
+    <a href="https://github.com/JaydenzKoci/jaydenzkoci.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaydenzKoci&repo=jaydenzkoci.github.io&theme=merko" alt="Portfolio Pin" />
+    <a href="https://github.com/JaydenzKoci/song-projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaydenzKoci&repo=song-projects&theme=merko" alt="Portfolio Pin" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaydenzKoci&size_weight=0.5&count_weight=0.5&theme=merko&card_width=400" alt="Top Languages" />
     <img src="https://streak-stats.demolab.com?user=JaydenzKoci&theme=merko&short_numbers=true&mode=weekly&card_width=400&card_height=288"" alt="GitHub Streak" />
