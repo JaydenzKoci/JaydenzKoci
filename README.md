@@ -13,6 +13,6 @@
 <br/>
         
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=b6e100border_color=080c08)](https://open.spotify.com/track/01BDK4Skxzh5mqnTbQzWGy)
+[![](https://spotify-github-profile.kittinanx.com/api/view?uid=31tmvqotn24dc223gbegckkr4jka&cover_image=true&theme=default&show_offline=false&background_color=080f08&interchange=false&bar_color=b6e100&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tmvqotn24dc223gbegckkr4jka&redirect=true)
 </div>
 <br/>
