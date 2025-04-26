@@ -18,15 +18,15 @@
 - My Favorite Music Artists are Ava Max, NF and Tate McRae
 - I code stuff for Fortnite Festival mainly
 - I know JavaScript, HTML, C++, Python and CSS
-
+##
 </a>   
 <br/>
 
-&nbsp;<p align="center">
+&nbsp;<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 [![](https://spotify-github-profile.kittinanx.com/api/view?uid=31tmvqotn24dc223gbegckkr4jka&cover_image=true&theme=default&show_offline=false&background_color=080f08&interchange=false&bar_color=b6e100&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tmvqotn24dc223gbegckkr4jka&redirect=true) 
-
-
-
+    <a href="https://www.youtube.com/watch?v=8ocWUGARCB0">
+      <img src="myohmy.png" alt="My Oh My Image" style="width: 450px; height: 450px; border-radius: 112px;">
+  </div>
 
 </a>   
 <br/>
