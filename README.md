@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3C8A0C&center=true&width=435&lines=Hello+There;Welcome+To+My+GitHub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3C8A0C&center=true&width=435&lines=Welcome+To+My+GitHub" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -12,13 +12,21 @@
 </a>   
 <br/>
         
-&nbsp;<p align="center">
-  <span style="display: inline-block; text-align: center; width: fit-content;">
-[![](https://spotify-github-profile.kittinanx.com/api/view?uid=31tmvqotn24dc223gbegckkr4jka&cover_image=true&theme=default&show_offline=false&background_color=080f08&interchange=false&bar_color=b6e100&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tmvqotn24dc223gbegckkr4jka&redirect=true) 
-  </span>
- <span style="display: inline-block; text-align: center; background-color: #191414; color: white; padding: 8px 12px; border-radius: 12px; margin: 0; margin-top: -20px; width: fit-content; vertical-align: top;">
-    Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test
-  </span>
-</p>
+## About Me
+- 20 Years Old
+- My Favorite Game is Fortnite Festival
+- My Favorite Music Artists are Ava Max, NF and Tate McRae
+- I code stuff for Fortnite Festival mainly
+- I know JavaScript, HTML, C++, Python and CSS
+
+</a>   
 <br/>
 
+&nbsp;<p align="center">
+[![](https://spotify-github-profile.kittinanx.com/api/view?uid=31tmvqotn24dc223gbegckkr4jka&cover_image=true&theme=default&show_offline=false&background_color=080f08&interchange=false&bar_color=b6e100&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tmvqotn24dc223gbegckkr4jka&redirect=true) 
+
+
+
+
+</a>   
+<br/>
