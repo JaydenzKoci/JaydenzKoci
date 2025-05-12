@@ -17,7 +17,7 @@
 <br/>
         
 ## About Me
-- 20 Years Old
+- 21 Years Old
 - My Favorite Game is Fortnite Festival
 - My Favorite Music Artists are Ava Max, NF and Tate McRae
 - I code stuff for Fortnite Festival mainly
